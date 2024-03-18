@@ -1,0 +1,55 @@
+.agenda {
+    margin-top: 50px;
+    display: flex;
+}
+
+.formulario {
+    background-color: orangered;
+    border-radius: 20px;
+    width: 400px;
+    padding: 70px;
+}
+
+.horario {
+    h2 {
+        margin-top: 50px;
+        font-style: italic;
+        font-size: xx-large;
+    }
+
+    background-color: orangered;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+
+input {
+    font-size: medium;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input:hover {
+    background-color: rgb(55, 130, 236);
+}
+
+button {
+    font-size: medium;
+    margin-right: 20px;
+    background-color: grey;
+    border: 2px solid white;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: blue;
+}

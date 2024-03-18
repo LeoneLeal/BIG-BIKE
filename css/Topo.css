@@ -1,0 +1,48 @@
+.logo {
+  margin-top: 20px;
+  margin-left: 100px;
+  border-radius: 50px;
+  height: 150px;
+}
+
+.bicicleta {
+  margin-top: 20px;
+  margin-left: 550px;
+  height: 150px;
+}
+
+.botao {
+  font-size: medium;
+  margin-right: 20px;
+  background-color: grey;
+  border: 2px solid white;
+  color: white;
+  border-radius: 20px;
+  padding: 13px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao:hover {
+  background-color: blue;
+}
+
+.lista {
+  background-color: orangered;
+  display: flex;
+  justify-content: right;
+
+}
+
+.foto {
+  background-color: orangered;
+  display: flex;
+  justify-content: left;
+  font-size: x-large;
+  font-style: italic;
+
+  h1 {
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+}

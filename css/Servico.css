@@ -1,0 +1,46 @@
+.serv {
+    margin-top: 200px;
+    margin-right: 100px;
+    width: 150px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    font-size: xx-large;
+}
+
+.bike {
+
+
+    margin-right: 150px;
+
+}
+
+.moto {
+
+    margin-left: 150px;
+}
+
+.b {
+    background-color: orangered;
+
+    h1 {
+        margin-left: 20px;
+    }
+
+    border-radius: 20px;
+    width: 500px;
+}
+
+.m {
+    background-color: orangered;
+
+    h1 {
+        margin-left: 20px;
+    }
+
+    border-radius: 20px;
+    width: 450px;
+}

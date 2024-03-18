@@ -1,0 +1,90 @@
+.artigosM{
+    background-color: orangered;
+    h1{
+        margin-left: 20px;
+    }
+    border-radius: 20px;
+    margin-top: 200px;
+    width: 430px;
+}
+.artigosB{
+    background-color: orangered;
+    h1{
+        margin-left: 20px;
+    }
+    border-radius: 20px;
+    margin-top: 200px;
+   
+    width: 500px;
+}
+.produtos{
+    margin-left: 50px;
+}
+.pp{
+    font-size: medium;
+    margin-right: 20px;
+    background-color: grey;
+    border: 2px solid white;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+.pp:hover{
+    background-color: blue;
+}
+img{
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+img:hover{
+    transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.bateria{
+    margin-left: 20px;
+}
+.t {
+    display: flex;
+    justify-Content: center;
+  }
+
+.c{
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: -200px;
+}
+.m1{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.m2{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.m3{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.q{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.bw{
+    display: flex;
+    justify-Content: center;
+    margin-right: 200px;
+    
+  }
+.w{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.r{
+
+    margin-right: 20px;
+}

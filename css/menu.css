@@ -1,0 +1,57 @@
+.a {
+    height: 500px;
+    border-radius: 50px;
+    margin: 50px 50px -70px;
+
+}
+
+.f {
+    margin-top: 100px;
+    padding: 50px;
+    width: 500px;
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: justify;
+    margin-left: -20px;
+    margin-top: -50px;
+    margin-right: 20px;
+}
+
+.info {
+    margin-top: 50px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding-left: 50px;
+
+}
+
+.menu {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu img {
+    align-self: center;
+}
+
+.msg {
+    animation: loop 5s linear infinite;
+    margin-top: 100px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+@keyframes loop {
+    0% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+
+}

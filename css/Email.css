@@ -1,0 +1,14 @@
+.k {
+    background-color: orangered;
+    width: 450px;
+
+    h1 {
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    border-radius: 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
